@@ -1,0 +1,7 @@
+url: https://github.com/Mudio233/dsh-restart-button
+name: Mudio233/dsh-restart-button
+category: dev
+tarball: https://github.com/Mudio233/dsh-restart-button/releases/latest/download/dsh-restart-button.tgz
+description:
+  en: Restarts the DeepSeek Harness desktop app from a sidebar button, after a confirmation step, showing the running version.
+  zh: 在侧边栏底部加一个重启按钮，二次确认后重启 DSH 桌面版客户端，并在按钮上显示当前运行版本。
